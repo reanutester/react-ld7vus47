@@ -7,4 +7,4 @@ export default {
   },
 };
 
-export const story1 = () => html` <glitch-test></glitch-test> `;
+export const story1 = () => html` <glitch-test></glitch-test>`;
